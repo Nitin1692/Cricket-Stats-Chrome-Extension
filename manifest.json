@@ -1,0 +1,15 @@
+{
+    "name": "Cricket Stats",
+    "version": "1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "Index.html",
+        "default_icon": "Logo.png"
+    },
+    "icons": {
+        "256": "Logo.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
